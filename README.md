@@ -1,4 +1,4 @@
-# MITx 6.00.1x: Introduction to Computer Science and Programming Using Python
+# 6.00.1x: Introduction to Computer Science and Programming Using Python
 
 This repository contains my solutions to the programming problem sets for MITx's
 6.00.1x: Introduction to Computer Science and Programming Using Python. All
