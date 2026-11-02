@@ -7,9 +7,3 @@ __pycache__/
 
 # Course data, resources, and test files
 *.txt
-
-# IDE and editor configuration
-.vscode/
-
-# Operating system files
-.DS_Store
