@@ -12,7 +12,7 @@ autograder.
 - **Course Name:** Introduction to Computer Science and Programming Using Python
 - **Course Website:** [Introduction to Computer Science and Programming Using
   Python][course-website]
-- **Technologies:** Python
+- **Technologies:** Python 3.5+
 - **Coursework Timeline**: March 1, 2024 – March 21, 2024
 
 ## Coursework
