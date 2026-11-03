@@ -10,13 +10,10 @@ autograder.
 - **Institution:** Massachusetts Institute of Technology (MIT)
 - **Course Code:** 6.00.1x
 - **Course Name:** Introduction to Computer Science and Programming Using Python
-- **Course Website:** [MITx: Introduction to Computer Science and Programming
-  Using Python][course-link]
+- **Course Website:** [Introduction to Computer Science and Programming Using
+  Python][course-link]
 - **Technologies:** Python
 - **Coursework Timeline**: March 1, 2024 – March 21, 2024
-
-[course-link]:
-  https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python
 
 ## Coursework
 
@@ -27,6 +24,11 @@ autograder.
 | Problem Set 3 | [pset3][pset3-solution] |
 | Problem Set 4 | [pset4][pset4-solution] |
 | Problem Set 5 | [pset5][pset5-solution] |
+
+<!-- Official website links -->
+
+[course-link]:
+  https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python
 
 <!-- Solution folder links -->
 
