@@ -11,7 +11,7 @@ autograder.
 - **Course Code:** 6.00.1x
 - **Course Name:** Introduction to Computer Science and Programming Using Python
 - **Course Website:** [Introduction to Computer Science and Programming Using
-  Python][course-link]
+  Python][course-website]
 - **Technologies:** Python
 - **Coursework Timeline**: March 1, 2024 – March 21, 2024
 
@@ -27,7 +27,7 @@ autograder.
 
 <!-- Course website -->
 
-[course-link]:
+[course-website]:
   https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python
 
 <!-- Problem set solutions -->
