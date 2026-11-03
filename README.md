@@ -25,12 +25,12 @@ autograder.
 | Problem Set 4 | [pset4][pset4-solution] |
 | Problem Set 5 | [pset5][pset5-solution] |
 
-<!-- Official website links -->
+<!-- Course website -->
 
 [course-link]:
   https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python
 
-<!-- Solution folder links -->
+<!-- Problem set solutions -->
 
 [pset1-solution]: pset1/
 [pset2-solution]: pset2/
